@@ -23,4 +23,4 @@ tkinter has been used to give the user an intuitive approach to use the applicat
     python -m pipinstall quandl
 
 ## Notebooks
-The notrbooks for each algorithm have been provided explaning each step ofthe entire process.
+The notebooks for each algorithm have been provided explaning each step ofthe entire process.
